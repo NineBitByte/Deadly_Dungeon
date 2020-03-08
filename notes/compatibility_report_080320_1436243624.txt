@@ -1,0 +1,24 @@
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'sound1' - setting to default audio group
+Missing audiogroup for sound: 'snd_scream' - setting to default audio group
+Missing audiogroup for sound: 'snd_lightning' - setting to default audio group
+Missing audiogroup for sound: 'snd_door' - setting to default audio group
+Missing audiogroup for sound: 'snd_gate' - setting to default audio group
+Missing audiogroup for sound: 'snd_loot' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_color.gml'
+Added compatibility script 'action/action_draw_score.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_message.gml'
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_path.gml'
+Added compatibility script 'action/action_restart_game.gml'
+Added compatibility script 'action/action_reverse_xdir.gml'
+Added compatibility script 'action/action_reverse_ydir.gml'
+Added compatibility script 'action/action_set_motion.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_set_score.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
