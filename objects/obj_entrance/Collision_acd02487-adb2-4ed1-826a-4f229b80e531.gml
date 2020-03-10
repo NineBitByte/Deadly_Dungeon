@@ -1,9 +1,3 @@
-/// @DnDAction : YoYo Games.Drawing.Draw_Value
-/// @DnDVersion : 1
-/// @DnDHash : 673A2FF6
-/// @DnDArgument : "var" ""You fight the urge to run away.  You must press deep into the dungeon to find the treasure!""
-draw_text(0, 0, string("Caption: ") + string("You fight the urge to run away.  You must press deep into the dungeon to find the treasure!"));
-
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 4C797F19
